@@ -10,6 +10,11 @@ const quizData = [
       answer: "Solo Cloud"
     },
     {
+      question: "Which of the following is NOT a type of Access tier (storage) in Microsoft Azure?",
+      options: ["Hot", "Warm", "Cold", "Archive"],
+      answer: "Warm"
+    },
+    {
       question: "Which is NOT a cloud service provider in The US?",
       options: ["Amazon Web Services(AWS)", "Microsoft Azure", "Google Cloud", "Scaleway"],
       answer: "Scaleway"
