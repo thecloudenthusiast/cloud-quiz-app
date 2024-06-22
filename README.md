@@ -129,3 +129,5 @@ STEP 6 - Host the front-end in Amplify vis GitHub (for CI/CD implementation)
 STEP 7 -Confirm CI/CD set up
 - Go to the quizData.js file on GitHub repo, edit the content => this should trigger Amplify to detect the change and automatically restart the process (provision-Build-Deploy).
 
+  P.S: Full credit goes to TinyTechnicalTutorials for the original source codes.
+
